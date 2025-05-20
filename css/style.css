@@ -37,6 +37,11 @@ body, .unslate_co--site-inner {
   background: #fff;
 }
 
+html, body{
+  width: 100%;
+  overflow-x: hidden;
+  max-width: 100%;
+}
 ::-moz-selection {
   background: #000;
   color: #fff;
